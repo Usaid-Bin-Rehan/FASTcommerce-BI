@@ -1,6 +1,7 @@
 # FASTcommerce-BI
 
-Big Dataset used: https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv
+Big Dataset used: 
+https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv
 
 1. Missing values in multiple columns handled
 2. Mutliple categorical variable columns transformed to numerical
