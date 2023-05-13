@@ -1,4 +1,4 @@
-# FASTcommerce-Business_Intelligence
+# FASTcommerce
 
 [![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/user/repo/blob/master/LICENSE)
